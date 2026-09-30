@@ -12,8 +12,8 @@ CREATE TABLE students(
 -- Let me insert data into my table
 INSERT INTO students(student_id, student_name, student_age, gender)
 VALUES
-(1, "Grace", 24, "Male"),
-(2, "Gatduel", 27, "Male"),
-(3, "Woodrow", 26, "Male"),
-(4, "Sarah", 50, "Female");
+(1, "Dorcaz", 24, "Female"),
+(2, "Maira", 25, "Female"),
+(3, "Rehema", 18, "Female"),
+(4, "Muzungu", 22, "Male");
 SELECT * FROM students;
